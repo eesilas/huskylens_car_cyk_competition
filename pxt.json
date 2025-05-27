@@ -1,5 +1,6 @@
 {
     "name": "Huskylens_Car_CYK_competition",
+    "version": "0.0.1",
     "description": "",
     "dependencies": {
         "core": "*",
